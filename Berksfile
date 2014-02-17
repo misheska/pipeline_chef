@@ -6,4 +6,4 @@ cookbook 'wrapper_pipeline', git: 'https://github.com/misheska/wrapper_pipeline.
 
 cookbook 'yum', git: 'https://github.com/opscode-cookbooks/yum.git'
 
-cookbook 'java', git: 'https://github.com/opscode-cookbooks/java.git'
+cookbook 'java', git: 'https://github.com/opscode-cookbooks/yum-repoforge.git'
