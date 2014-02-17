@@ -1,5 +1,5 @@
 site :opscode
 
-cookbook 'pipeline', git: 'https://github.com/stephenlauck/pipeline.git'
+cookbook 'pipeline', git: 'https://github.com/misheska/pipeline.git'
 
-cookbook 'wrapper_pipeline', git: 'https://github.com/stephenlauck/wrapper_pipeline.git'
+cookbook 'wrapper_pipeline', git: 'https://github.com/misheska/wrapper_pipeline.git'
